@@ -46,7 +46,7 @@ cd rock-paper-scissors
 
 ### 3️⃣ Run the Script  
 ```bash
-python rock_paper_scissors.py
+python rock_paper_scissors.ipynb
 ```
 
 ---
